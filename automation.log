@@ -1,0 +1,160 @@
+06/04/2025 01:41:23 PM - LoginPage - INFO: Element found with locator: //a[contains(text(),'Sign In')] and  locatorType: xpath
+06/04/2025 01:41:23 PM - LoginPage - INFO: Clicked on element with locator: //a[contains(text(),'Sign In')] locatorType: XPATH
+06/04/2025 01:41:23 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+06/04/2025 01:41:23 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+06/04/2025 01:41:23 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+06/04/2025 01:41:23 PM - LoginPage - INFO: Sent data on element with locator: login-password locatorType: id
+06/04/2025 01:41:23 PM - LoginPage - INFO: Element found with locator: login and  locatorType: id
+06/04/2025 01:41:23 PM - LoginPage - INFO: Clicked on element with locator: login locatorType: id
+06/04/2025 01:41:25 PM - LoginPage - INFO: Element found with locator: //span[contains(text(), 'My Account')] and  locatorType: xpath
+06/04/2025 01:41:25 PM - LoginPage - INFO: Element Found
+06/04/2025 10:09:52 PM - LoginPage - INFO: Element not found with locator: Login and  locatorType: link
+06/04/2025 10:09:52 PM - LoginPage - INFO: Cannot click on the element with locator: Login locatorType: link
+06/04/2025 10:09:52 PM - LoginPage - INFO: Element not found with locator: user_email and  locatorType: id
+06/04/2025 10:09:52 PM - LoginPage - INFO: Element not found with locator: Login and  locatorType: link
+06/04/2025 10:09:52 PM - LoginPage - INFO: Cannot click on the element with locator: Login locatorType: link
+06/04/2025 10:09:52 PM - LoginPage - INFO: Element not found with locator: user_email and  locatorType: id
+06/04/2025 10:10:38 PM - LoginPage - INFO: Element not found with locator: Login and  locatorType: link
+06/04/2025 10:10:38 PM - LoginPage - INFO: Cannot click on the element with locator: Login locatorType: link
+06/04/2025 10:10:41 PM - LoginPage - INFO: Element not found with locator: user_email and  locatorType: id
+06/04/2025 10:10:44 PM - LoginPage - INFO: Element not found with locator: Login and  locatorType: link
+06/04/2025 10:10:44 PM - LoginPage - INFO: Cannot click on the element with locator: Login locatorType: link
+06/04/2025 10:10:47 PM - LoginPage - INFO: Element not found with locator: user_email and  locatorType: id
+06/04/2025 10:11:27 PM - LoginPage - INFO: Element not found with locator: Login and  locatorType: link
+06/04/2025 10:11:27 PM - LoginPage - INFO: Cannot click on the element with locator: Login locatorType: link
+06/04/2025 10:11:30 PM - LoginPage - INFO: Element not found with locator: user_email and  locatorType: id
+06/04/2025 10:11:33 PM - LoginPage - INFO: Element not found with locator: Login and  locatorType: link
+06/04/2025 10:11:33 PM - LoginPage - INFO: Cannot click on the element with locator: Login locatorType: link
+06/04/2025 10:11:36 PM - LoginPage - INFO: Element not found with locator: user_email and  locatorType: id
+06/04/2025 10:14:00 PM - LoginPage - INFO: Element not found with locator: Login and  locatorType: id
+06/04/2025 10:14:00 PM - LoginPage - INFO: Cannot click on the element with locator: Login locatorType: ID
+06/04/2025 10:14:00 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+06/04/2025 10:14:06 PM - LoginPage - INFO: Element not found with locator: Login and  locatorType: id
+06/04/2025 10:14:06 PM - LoginPage - INFO: Cannot click on the element with locator: Login locatorType: ID
+06/04/2025 10:14:06 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+06/04/2025 10:15:40 PM - LoginPage - INFO: Element found with locator: //a[contains(text(),'Sign In')] and  locatorType: xpath
+06/04/2025 10:15:41 PM - LoginPage - INFO: Clicked on element with locator: //a[contains(text(),'Sign In')] locatorType: XPATH
+06/04/2025 10:15:41 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+06/04/2025 10:15:44 PM - LoginPage - INFO: Element not found with locator: user_password and  locatorType: id
+06/04/2025 10:15:44 PM - LoginPage - INFO: Element found with locator: //a[contains(text(),'Sign In')] and  locatorType: xpath
+06/04/2025 10:15:44 PM - LoginPage - INFO: Clicked on element with locator: //a[contains(text(),'Sign In')] locatorType: XPATH
+06/04/2025 10:15:44 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+06/04/2025 10:15:47 PM - LoginPage - INFO: Element not found with locator: user_password and  locatorType: id
+06/04/2025 10:24:00 PM - LoginPage - INFO: Element found with locator: //a[contains(text(),'Sign In')] and  locatorType: xpath
+06/04/2025 10:24:00 PM - LoginPage - INFO: Clicked on element with locator: //a[contains(text(),'Sign In')] locatorType: XPATH
+06/04/2025 10:24:00 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+06/04/2025 10:24:03 PM - LoginPage - INFO: Element not found with locator: user_password and  locatorType: id
+06/04/2025 10:24:03 PM - LoginPage - INFO: Element found with locator: //a[contains(text(),'Sign In')] and  locatorType: xpath
+06/04/2025 10:24:04 PM - LoginPage - INFO: Clicked on element with locator: //a[contains(text(),'Sign In')] locatorType: XPATH
+06/04/2025 10:24:04 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+06/04/2025 10:24:07 PM - LoginPage - INFO: Element not found with locator: user_password and  locatorType: id
+06/04/2025 10:29:11 PM - LoginPage - INFO: Element found with locator: //a[contains(text(),'Sign In')] and  locatorType: xpath
+06/04/2025 10:29:11 PM - LoginPage - INFO: Clicked on element with locator: //a[contains(text(),'Sign In')] locatorType: XPATH
+06/04/2025 10:29:11 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+06/04/2025 10:29:11 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+06/04/2025 10:29:11 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+06/04/2025 10:29:11 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+06/04/2025 10:29:11 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+06/04/2025 10:29:11 PM - LoginPage - INFO: Sent data on element with locator: login-password locatorType: id
+06/04/2025 10:29:11 PM - LoginPage - INFO: Element found with locator: login and  locatorType: id
+06/04/2025 10:29:12 PM - LoginPage - INFO: Clicked on element with locator: login locatorType: ID
+06/04/2025 10:29:12 PM - LoginPage - INFO: Element found with locator: //span[contains(text(),'Incorrect login details')] and  locatorType: xpath
+06/04/2025 10:29:12 PM - LoginPage - INFO: Element Found
+06/04/2025 10:29:12 PM - LoginPage - INFO: Element found with locator: //a[contains(text(),'Sign In')] and  locatorType: xpath
+06/04/2025 10:29:13 PM - LoginPage - INFO: Cannot click on the element with locator: //a[contains(text(),'Sign In')] locatorType: XPATH
+06/04/2025 10:29:13 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+06/04/2025 10:29:13 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+06/04/2025 10:29:13 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+06/04/2025 10:29:13 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+06/04/2025 10:29:13 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+06/04/2025 10:29:13 PM - LoginPage - INFO: Sent data on element with locator: login-password locatorType: id
+06/04/2025 10:29:13 PM - LoginPage - INFO: Element found with locator: login and  locatorType: id
+06/04/2025 10:29:13 PM - LoginPage - INFO: Clicked on element with locator: login locatorType: ID
+06/04/2025 10:29:13 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/04/2025 10:29:24 PM - LoginPage - INFO: Element not appeared on the web page
+06/04/2025 10:29:27 PM - LoginPage - INFO: Element not found with locator: //span[contains(text(), 'My Account')] and  locatorType: id
+06/04/2025 10:29:27 PM - LoginPage - INFO: Element not found
+06/04/2025 10:30:07 PM - LoginPage - INFO: Element found with locator: //a[contains(text(),'Sign In')] and  locatorType: xpath
+06/04/2025 10:30:08 PM - LoginPage - INFO: Clicked on element with locator: //a[contains(text(),'Sign In')] locatorType: XPATH
+06/04/2025 10:30:08 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+06/04/2025 10:30:08 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+06/04/2025 10:30:08 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+06/04/2025 10:30:08 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+06/04/2025 10:30:08 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+06/04/2025 10:30:08 PM - LoginPage - INFO: Sent data on element with locator: login-password locatorType: id
+06/04/2025 10:30:08 PM - LoginPage - INFO: Element found with locator: login and  locatorType: id
+06/04/2025 10:30:08 PM - LoginPage - INFO: Clicked on element with locator: login locatorType: ID
+06/04/2025 10:30:08 PM - LoginPage - INFO: Element found with locator: //span[contains(text(),'Incorrect login details')] and  locatorType: xpath
+06/04/2025 10:30:08 PM - LoginPage - INFO: Element Found
+06/04/2025 10:30:08 PM - LoginPage - INFO: Element found with locator: //a[contains(text(),'Sign In')] and  locatorType: xpath
+06/04/2025 10:30:09 PM - LoginPage - INFO: Cannot click on the element with locator: //a[contains(text(),'Sign In')] locatorType: XPATH
+06/04/2025 10:30:09 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+06/04/2025 10:30:09 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+06/04/2025 10:30:09 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+06/04/2025 10:30:09 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+06/04/2025 10:30:09 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+06/04/2025 10:30:09 PM - LoginPage - INFO: Sent data on element with locator: login-password locatorType: id
+06/04/2025 10:30:09 PM - LoginPage - INFO: Element found with locator: login and  locatorType: id
+06/04/2025 10:30:09 PM - LoginPage - INFO: Clicked on element with locator: login locatorType: ID
+06/04/2025 10:30:09 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/04/2025 10:30:20 PM - LoginPage - INFO: Element not appeared on the web page
+06/04/2025 10:30:23 PM - LoginPage - INFO: Element not found with locator: //span[contains(text(), 'My Account')] and  locatorType: id
+06/04/2025 10:30:23 PM - LoginPage - INFO: Element not found
+06/04/2025 10:33:05 PM - LoginPage - INFO: Element found with locator: //a[contains(text(),'Sign In')] and  locatorType: xpath
+06/04/2025 10:33:06 PM - LoginPage - INFO: Clicked on element with locator: //a[contains(text(),'Sign In')] locatorType: XPATH
+06/04/2025 10:33:06 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+06/04/2025 10:33:06 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+06/04/2025 10:33:06 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+06/04/2025 10:33:06 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+06/04/2025 10:33:06 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+06/04/2025 10:33:06 PM - LoginPage - INFO: Sent data on element with locator: login-password locatorType: id
+06/04/2025 10:33:06 PM - LoginPage - INFO: Element found with locator: login and  locatorType: id
+06/04/2025 10:33:06 PM - LoginPage - INFO: Clicked on element with locator: login locatorType: ID
+06/04/2025 10:33:06 PM - LoginPage - INFO: Element found with locator: //span[contains(text(),'Incorrect login details')] and  locatorType: xpath
+06/04/2025 10:33:06 PM - LoginPage - INFO: Element Found
+06/04/2025 10:33:06 PM - LoginPage - INFO: Element found with locator: //a[contains(text(),'Sign In')] and  locatorType: xpath
+06/04/2025 10:33:07 PM - LoginPage - INFO: Cannot click on the element with locator: //a[contains(text(),'Sign In')] locatorType: XPATH
+06/04/2025 10:33:07 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+06/04/2025 10:33:07 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+06/04/2025 10:33:07 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+06/04/2025 10:33:07 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+06/04/2025 10:33:07 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+06/04/2025 10:33:07 PM - LoginPage - INFO: Sent data on element with locator: login-password locatorType: id
+06/04/2025 10:33:07 PM - LoginPage - INFO: Element found with locator: login and  locatorType: id
+06/04/2025 10:33:07 PM - LoginPage - INFO: Clicked on element with locator: login locatorType: ID
+06/04/2025 10:33:07 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/04/2025 10:33:18 PM - LoginPage - INFO: Element not appeared on the web page
+06/04/2025 10:33:21 PM - LoginPage - INFO: Element not found with locator: //span[contains(text(), 'My Account')] and  locatorType: id
+06/04/2025 10:33:21 PM - LoginPage - INFO: Element not found
+06/04/2025 10:53:05 PM - LoginPage - INFO: Element not found with locator: //a[contains(text(),'Sign In')] and  locatorType: xpath
+06/04/2025 10:53:05 PM - LoginPage - INFO: Cannot click on the element with locator: //a[contains(text(),'Sign In')] locatorType: XPATH
+06/04/2025 10:53:08 PM - LoginPage - INFO: Element not found with locator: email and  locatorType: id
+06/04/2025 10:53:11 PM - LoginPage - INFO: Element not found with locator: //a[contains(text(),'Sign In')] and  locatorType: xpath
+06/04/2025 10:53:11 PM - LoginPage - INFO: Cannot click on the element with locator: //a[contains(text(),'Sign In')] locatorType: XPATH
+06/04/2025 10:53:15 PM - LoginPage - INFO: Element not found with locator: email and  locatorType: id
+06/04/2025 10:53:51 PM - LoginPage - INFO: Element found with locator: //a[contains(text(),'Sign In')] and  locatorType: xpath
+06/04/2025 10:53:52 PM - LoginPage - INFO: Clicked on element with locator: //a[contains(text(),'Sign In')] locatorType: XPATH
+06/04/2025 10:53:52 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+06/04/2025 10:53:52 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+06/04/2025 10:53:52 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+06/04/2025 10:53:52 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+06/04/2025 10:53:52 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+06/04/2025 10:53:52 PM - LoginPage - INFO: Sent data on element with locator: login-password locatorType: id
+06/04/2025 10:53:52 PM - LoginPage - INFO: Element found with locator: login and  locatorType: id
+06/04/2025 10:53:52 PM - LoginPage - INFO: Clicked on element with locator: login locatorType: ID
+06/04/2025 10:53:52 PM - LoginPage - INFO: Element found with locator: //span[contains(text(),'Incorrect login details')] and  locatorType: xpath
+06/04/2025 10:53:52 PM - LoginPage - INFO: Element Found
+06/04/2025 10:53:52 PM - LoginPage - INFO: Element found with locator: //a[contains(text(),'Sign In')] and  locatorType: xpath
+06/04/2025 10:53:53 PM - LoginPage - INFO: Cannot click on the element with locator: //a[contains(text(),'Sign In')] locatorType: XPATH
+06/04/2025 10:53:53 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+06/04/2025 10:53:53 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+06/04/2025 10:53:53 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+06/04/2025 10:53:53 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+06/04/2025 10:53:53 PM - LoginPage - INFO: Element found with locator: login-password and  locatorType: id
+06/04/2025 10:53:53 PM - LoginPage - INFO: Sent data on element with locator: login-password locatorType: id
+06/04/2025 10:53:53 PM - LoginPage - INFO: Element found with locator: login and  locatorType: id
+06/04/2025 10:53:53 PM - LoginPage - INFO: Clicked on element with locator: login locatorType: ID
+06/04/2025 10:53:53 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/04/2025 10:54:04 PM - LoginPage - INFO: Element not appeared on the web page
+06/04/2025 10:54:07 PM - LoginPage - INFO: Element not found with locator: //span[contains(text(), 'My Account')] and  locatorType: id
+06/04/2025 10:54:07 PM - LoginPage - INFO: Element not found
