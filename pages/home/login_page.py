@@ -17,7 +17,7 @@ class LoginPage(SeleniumDriver):
     _login_button = "login"
 
     def clickLoginLink(self):
-        self.elementClick(self._login_link, locatorType="XPATH")
+        self.elementClick(self._login_link, locatorType="xpath")
 
     def enterEmail(self, email):
         self.sendKeys(email, self._email_field)
@@ -54,5 +54,11 @@ class LoginPage(SeleniumDriver):
         emailField.clear()
         passwordField = self.getElement(locator=self._password_field)
         passwordField.clear()
+
+    def verifyTitle(self):
+        if "Google" in self.getTitle():
+            return True
+        else:
+            return False
 
 
